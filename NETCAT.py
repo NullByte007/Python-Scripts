@@ -14,6 +14,10 @@
 # POSSIBILITY OF SUCH DAMAGE.
 #libraries
 import os
+os.system("pip install colorama==0.3.3")
+from colorama import Fore, Back, Style
+os.system("clear")
+print(Fore.GREEN + Style.BRIGHT + "") 
 print("--------------------------------------------------------")
 print("__        _   _ _____ _____ ____    _  _____        __  ")
 print("| _|_/\__ | \ | | ____|_   _/ ___|  / \|_   _| __/\_|_ |")
