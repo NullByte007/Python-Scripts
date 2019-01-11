@@ -1,4 +1,18 @@
 #!/usr/bin/python3
+
+#Copyright 2019, Aniket.N.Bhagwate, All rights reserved.
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+# AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+# ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+# LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+# CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+# SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+# INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+# CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+# ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+# POSSIBILITY OF SUCH DAMAGE.
+#libraries
 import os
 print("--------------------------------------------------------")
 print("__        _   _ _____ _____ ____    _  _____        __  ")
@@ -8,7 +22,7 @@ print("| |/_  _\ | |\  | |___  | || |___ / ___ \| |   /_  _\| |")
 print("| |  \/   |_| \_|_____| |_| \____/_/   \_\_|     \/  | |")
 print("|__|                                                |__|")
 print("--------------------------------------------------------------------")
-print("                                                     [ ~NULLBYTE007]")
+print("                                               [ ~Aniket.N.Bhagwate]")
 print("--------------------------------------------------------------------")
 print("[*] 1: CLIENT --> CONNECT TO HOST")
 print("[*] 2: SERVER --> LISTEN FOR CONNECTIONS")
