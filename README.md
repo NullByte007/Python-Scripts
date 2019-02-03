@@ -28,3 +28,6 @@ SCRIPTS PROVIDED :
 	[4] NETCAT
 		This script is a simple implementation of NetCat tool
 		This script will save you dozens of commands and works with simple Menu Driven functionality !!
+		
+	[5] OPEN-PORT-FINDER
+		This tool works on nmap utility and can be used to check for open ports in target machine !
