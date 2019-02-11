@@ -25,17 +25,24 @@ print("     | |\    / |  \| |  _|   | || |     / _ \ | |   \    /| |")
 print("     | |/_  _\ | |\  | |___  | || |___ / ___ \| |   /_  _\| |")
 print("     | |  \/   |_| \_|_____| |_| \____/_/   \_\_|     \/  | |")
 print("     |__|                                                |__|")
-print("		--------------------------------------------------------")
+print("     --------------------------------------------------------")
 print(Fore.RED + Style.BRIGHT + "")
 print("                             [ ~ #Code By: Aniket.N.Bhagwate]")
 print(Fore.GREEN + Style.BRIGHT + "")
-print("		--------------------------------------------------------")
-print("[*] 1: CLIENT --> CONNECT TO HOST")
-print("[*] 2: SERVER --> LISTEN FOR CONNECTIONS")
-print("[*] 3: SEND REVERSE SHELL")
+print("     --------------------------------------------------------")
+menu = """
+|------------------------------------------|
+| [*] CHOOSE FROM THE OPTIONS   	   |
+|------------------------------------------|
+| 1 |	CLIENT --> CONNECT TO HOST	   |
+|------------------------------------------|
+| 2 |	SERVER --> LISTEN FOR CONNECTIONS  |
+|------------------------------------------|
+| 3 |	SEND REVERSE SHELL	           |
+|------------------------------------------|
+"""
+print(menu)
 choice = input("NETCAT : ")
-
-
 
 def client():
     print("[*] CLIENT MODULE")
