@@ -74,7 +74,7 @@ if choice=="no":
 	
 print("[*] FINDING ALL THE IP ADDRESSES FOR ABOVE SUBDOMAINS !!")
 f = open("subdomains.txt","r")
-f = f.read();
+f = f.read()
 f = f.split("\n")
 f.pop()
 os.system("touch subdomain-ip.txt")
