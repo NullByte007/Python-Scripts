@@ -37,3 +37,7 @@ SCRIPTS PROVIDED :
 		
 	[5] OPEN-PORT-FINDER
 		This tool works on nmap utility and can be used to check for open ports in target machine !
+	
+	[6] TCP-SOCKET-TESTER
+		This tool can be used to create multiple listening sockets for testing purpose.
+		Basically this sockets can be directly connected using any tool or protocol.
