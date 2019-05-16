@@ -41,3 +41,8 @@ SCRIPTS PROVIDED :
 	[6] TCP-SOCKET-TESTER
 		This tool can be used to create multiple listening sockets for testing purpose.
 		Basically this sockets can be directly connected using any tool or protocol.
+		
+	[7] NETWORK-MONITOR-SNIFFER
+		This tool can be used to monitor network and is built/automated on top of "tcpdump".
+		Also a network sniffer is added to sniff the data flowing back and forth through the network.
+		[sniffer only works for UNENCRYPTED data !!]
