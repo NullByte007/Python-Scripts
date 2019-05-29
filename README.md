@@ -16,7 +16,7 @@ Usage Information :
 	[*] TYPE : chmod +x <file_name> and 
 	[*] Run using ./<script_name.py>
 	[*] Also You can run them with simple python3 command (use python3 specifically!)
-	[*] Run usinf python3 <script_name.py>
+	[*] Run using python3 <script_name.py>
 	
 SCRIPTS PROVIDED : 
 	
