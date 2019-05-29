@@ -16,10 +16,11 @@
 
 # libraries 
 import os
+print("[*] Downloading Required Library...")
+os.system("pip install colorama==0.3.3")
 from colorama import Fore, Back, Style
-
+os.system("clear")
 print(Fore.GREEN + Style.BRIGHT + "")
-
 banner ="""
 	|-----------------------------------------------------------|
 	| ____ ___ _   _  ____   ____ __        _______ _____ ____  |
