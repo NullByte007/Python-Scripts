@@ -46,3 +46,7 @@ SCRIPTS PROVIDED :
 		This tool can be used to monitor network and is built/automated on top of "tcpdump".
 		Also a network sniffer is added to sniff the data flowing back and forth through the network.
 		[sniffer only works for UNENCRYPTED data !!]
+
+	[8] PING-SWEEP
+		This tool can be used to ping sweep an entire subnet and find all the alive[online] hosts on the given network!.
+		Also found ip can be stored into a seperate file for future use !
