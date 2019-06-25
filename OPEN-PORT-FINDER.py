@@ -15,8 +15,6 @@
 #libraries
 import os
 import socket
-print("[*] Downloading Required Library...")
-os.system("pip install colorama==0.3.3")
 from colorama import Fore, Back, Style
 os.system("clear")
 print(Fore.GREEN + Style.BRIGHT + "") 
