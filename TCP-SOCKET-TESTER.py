@@ -20,9 +20,9 @@ print(Fore.GREEN + Style.BRIGHT + "")
 a="""
 --------------------
 |TCP-SOCKET-TESTER |
-------------------------------
-|#code by : Aniket.N.Bhagwate|
-------------------------------
+-------------------------
+|#code by : NullByte007 |
+-------------------------
 """
 
 print(a)
