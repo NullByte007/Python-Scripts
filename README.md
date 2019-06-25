@@ -12,6 +12,7 @@ Basic Introduction :
 
 Usage Information :
 	
+	[*] Run: pip3 install -r requirements.txt
 	[*] Grant execution permissions to the scripts before using them.
 	[*] TYPE : chmod +x <file_name> and 
 	[*] Run using ./<script_name.py>
