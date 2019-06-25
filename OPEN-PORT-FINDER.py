@@ -31,7 +31,7 @@ a = """
 print(a)
 print("		------------------------------------------------")
 print(Fore.RED + Style.BRIGHT + "")
-print("                                         [ ~Aniket.N.Bhagwate]")
+print("                                         [ ~ Code by : NullByte007]")
 print(Fore.GREEN + Style.BRIGHT + "")
 print("		------------------------------------------------")
 
