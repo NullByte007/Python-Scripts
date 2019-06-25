@@ -61,7 +61,7 @@ if choice =='Y' or choice=='y':
 	os.system("touch IP_ADDRESS.txt")
 	f = open("IP_ADDRESS.txt","a")
 	for x in ip_list:
-		f.write(x)
+		f.write(x+"\n")
 	f.close()
 	print("[*] SAVED DATA IN -->" +Fore.CYAN + Style.BRIGHT + "IP_ADDRESS.txt")
 else:
