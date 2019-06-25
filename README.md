@@ -1,8 +1,7 @@
-	------------------------------------------
-	|----------------------------------------|
-	|	NULLBYTE-SCRIPTS-COLLECTION      |
-	|----------------------------------------|
-	------------------------------------------
+<p align="center">
+<img src="https://ibb.co/d6qpfwk" width="172" height="123">
+</p>
+
 
 # Python-Scripts
 Basic Introduction : 
