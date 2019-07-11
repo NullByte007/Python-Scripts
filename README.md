@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/rGbvdn4/Hacking-with-Python-270x.jpg" width="400" height="140">
+<img src="https://i.ibb.co/rGbvdn4/Hacking-with-Python-270x.jpg" width="200" height="300">
 </p>
 
 
